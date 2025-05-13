@@ -7,6 +7,7 @@ $ whoami
 🧠 Analista de Logística | Estudante de Programação
 
 $ cat sobre-mim.txt
+
 🌎 Brasil  
 🚚 Especialista em transportes nacionais  
 🧩 Apaixonado por otimização de processos e como facilitar a vida com a tecnologia  
