@@ -31,14 +31,6 @@ $ cat sobre-mim.txt
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YuriAvlis&show_icons=true&theme=radical&count_private=true&hide=issues"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriAvlis&layout=compact&theme=radical"/>
-</div>
-
----
 🎯 Curiosidades sobre mim
 
 🎮 Apaixonado por games, especialmente pela criação de mapas no editor do Far Cry 5  
