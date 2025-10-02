@@ -10,9 +10,7 @@ $ whoami
 $ cat sobre-mim.txt
 
 🌎 Brasil  
-🚚 Especialista em transportes nacionais  
-🧩 Apaixonado por otimização de processos e como facilitar a vida com a tecnologia  
-💡 Em transição de carreira para a área de tecnologia  
+🧩 Sou apaixonado por otimização de processos e como facilitar a vida com a tecnologia   
 📚 Atualmente estudando desenvolvimento web fullstack  
 
 ---
@@ -33,10 +31,10 @@ $ cat sobre-mim.txt
 
 🎯 Curiosidades sobre mim
 
-🎮 Apaixonado por games, especialmente pela criação de mapas no editor do Far Cry 5  
+🎮 Apaixonado por games.  
 🎬 Fã de filmes de ficção científica, especialmente com temáticas de viagem no tempo ⏳  
 🍳 Amante da culinária | 🏖️ Curto praia e natureza 🌿  
-☕ Viciado em cafeterias e explorador das melhores pela cidade
+☕ Viciado em cafeterias e um explorador das melhores pela cidade.
 
 
 ## 📫 Vamos nos conectar?
