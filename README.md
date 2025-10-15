@@ -5,7 +5,7 @@ $ echo 🚀 Explorando inovação e tecnologia...
 
 $ whoami
 
-🧠 Analista de Logística | Estudante de Programação
+Desenvolvedor Front-end 
 
 $ cat sobre-mim.txt
 
